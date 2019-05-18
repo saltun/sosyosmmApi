@@ -12,7 +12,7 @@ Sınıfı dahil edip çalıştıralım
 ---------------------
 
 ``` php
-	$api = new Api();
+$api = new Api();
 ```
     
 Bakiye sorgulama
